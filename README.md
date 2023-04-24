@@ -8,6 +8,4 @@ The housing market is a booming business which is constantly growing and the nee
 
 In our report, we will go into our plan for how we want to implement our proposed system. This will include the analysis of the current solutions available and how we plan to improve on them in a unique product. We will go over the specific features that we wish to implement in our system which will vary with each type of user. Furthermore, we will talk about the resources we need to actually implement the system like databases, servers, or the amount of cloud space. Next, we will go over our project plan containing various sequential phases for implementing the system. This will include analysis, design, development, and deployment. Lastly, we will talk about potential challenges moving forward in addition to some important details that we would like to highlight about our system.
 
-[INFO 102 G14 Milestone #5 - Final Report.pdf]([embed]https://github.com/YENA0512/Intro-to-Information-Systems/files/11308142/INFO.102.G14.Milestone.5.-.Final.Report.pdf[/embed])
 
-[INFO 102 G14 Presentation.pdf](https://github.com/YENA0512/Intro-to-Information-Systems/files/11308143/INFO.102.G14.Presentation.pdf)
